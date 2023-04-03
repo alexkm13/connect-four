@@ -3,12 +3,12 @@
 Connect Four in Python
 
 Table of Contents
-1. Introduction
-2. Requirements
-3. Installation
-4. Usage
-5. Rules of the Game
-6. License
+1. <a href="introduction"> Introduction </a>
+2. <a href="requirements"> Requirements </a>
+3. <a href="installation"> Installation </a>
+4. <a href="usage"> Usage </a>
+5. <a href="rules"> Rules of the Game </a>
+6. <a href="license"> License </a>
 
 <a name="introduction"></a>
 Introduction
