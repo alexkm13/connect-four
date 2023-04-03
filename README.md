@@ -24,6 +24,3 @@ Follow the prompts on the screen to play the game.
 2. Two players take turns to drop their pieces into the grid.
 3. A player wins if they connect a line of four of their own pieces horizontally, vertically, or diagonally.
 4. The game ends in a draw if the grid is filled and no player has connected four pieces.
-
-<h3 name="license">License</h3>
-This project is licensed under the MIT License. See the LICENSE file for more details.
